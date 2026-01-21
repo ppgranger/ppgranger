@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Philippe Pierre Granger
+
+
 
 Building **software, data & AI platforms** at enterprise scale.
 
